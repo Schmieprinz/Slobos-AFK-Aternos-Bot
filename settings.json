@@ -9,7 +9,7 @@
     "ip": "Schmierprinz.aternos.me",
     "port": 59874,
     "version": "1.21.11",
-    "try-creative": false
+  
   },
   "position": {
     "enabled": true,
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Schmieprinz"
     },
     "anti-afk": {
       "enabled": true,
